@@ -1,5 +1,6 @@
 const Serie = require('./classes/Serie');
+const VideoJuego = require('./classes/VideoJuego');
 
-const serie = new Serie();
+const juego = new VideoJuego();
 
-console.log(serie.getData());
+console.log(juego.getData());
