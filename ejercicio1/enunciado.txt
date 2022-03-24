@@ -5,10 +5,11 @@ Crearemos una clase llamada Serie con las siguientes características:
     Un constructor por defecto.
     Un constructor con el titulo y creador. El resto por defecto.
     Un constructor con todos los atributos, excepto de entregado.
+
     Los métodos que se implementara serán:
-    Métodos get de todos los atributos, excepto de entregado.
-    Métodos set de todos los atributos, excepto de entregado.
-    Sobrescribe los métodos toString.
+        Métodos get de todos los atributos, excepto de entregado.
+        Métodos set de todos los atributos, excepto de entregado.
+        Sobrescribe los métodos toString.
 
 Crearemos una clase Videojuego con las siguientes características:
 
