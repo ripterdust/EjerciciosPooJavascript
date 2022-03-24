@@ -4,8 +4,12 @@
   "description": "Un compendio de ejercicios de programación",
   "main": "index.js",
   "scripts": {
+    "ej1": "nodemon ejercicio1/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bryan Guillermo Arévalo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
